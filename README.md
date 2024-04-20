@@ -1,2 +1,3 @@
-# rest-api-design
-REST API design presentation
+# REST API Design
+
+REST API design presentation.
