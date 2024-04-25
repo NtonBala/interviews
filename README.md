@@ -1,5 +1,3 @@
-# REST API Design
+# Presentations
 
-REST API design presentation.
-
-1. [REST API design UK](./uk/index.md)
+1. [REST API Design](./RestApiDesign/index.md)
